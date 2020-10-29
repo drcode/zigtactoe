@@ -1,0 +1,27 @@
+cimport.o: \
+  /home/drcode/zigtactoe/zig-cache/o/JiFRf6F2AyUCKWwDpTj1laP3FmwuFAwSdMFmVaj_FhUa-OjtJ7He75ph77A1hUlE/cimport.h \
+  /home/drcode/zigtactoe/zig-linux-x86_64-0.6.0+17f36566d/lib/zig/libc/include/generic-glibc/time.h \
+  /home/drcode/zigtactoe/zig-linux-x86_64-0.6.0+17f36566d/lib/zig/libc/include/generic-glibc/features.h \
+  /home/drcode/zigtactoe/zig-linux-x86_64-0.6.0+17f36566d/lib/zig/libc/include/generic-glibc/stdc-predef.h \
+  /home/drcode/zigtactoe/zig-linux-x86_64-0.6.0+17f36566d/lib/zig/libc/include/generic-glibc/sys/cdefs.h \
+  /home/drcode/zigtactoe/zig-linux-x86_64-0.6.0+17f36566d/lib/zig/libc/include/x86_64-linux-gnu/bits/wordsize.h \
+  /home/drcode/zigtactoe/zig-linux-x86_64-0.6.0+17f36566d/lib/zig/libc/include/x86_64-linux-gnu/bits/long-double.h \
+  /home/drcode/zigtactoe/zig-linux-x86_64-0.6.0+17f36566d/lib/zig/libc/include/x86_64-linux-gnu/gnu/stubs.h \
+  /home/drcode/zigtactoe/zig-linux-x86_64-0.6.0+17f36566d/lib/zig/libc/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /home/drcode/zigtactoe/zig-linux-x86_64-0.6.0+17f36566d/lib/zig/include/stddef.h \
+  /home/drcode/zigtactoe/zig-linux-x86_64-0.6.0+17f36566d/lib/zig/libc/include/generic-glibc/bits/time.h \
+  /home/drcode/zigtactoe/zig-linux-x86_64-0.6.0+17f36566d/lib/zig/libc/include/generic-glibc/bits/types.h \
+  /home/drcode/zigtactoe/zig-linux-x86_64-0.6.0+17f36566d/lib/zig/libc/include/x86_64-linux-gnu/bits/timesize.h \
+  /home/drcode/zigtactoe/zig-linux-x86_64-0.6.0+17f36566d/lib/zig/libc/include/x86_64-linux-gnu/bits/typesizes.h \
+  /home/drcode/zigtactoe/zig-linux-x86_64-0.6.0+17f36566d/lib/zig/libc/include/generic-glibc/bits/time64.h \
+  /home/drcode/zigtactoe/zig-linux-x86_64-0.6.0+17f36566d/lib/zig/libc/include/generic-glibc/bits/types/clock_t.h \
+  /home/drcode/zigtactoe/zig-linux-x86_64-0.6.0+17f36566d/lib/zig/libc/include/generic-glibc/bits/types/time_t.h \
+  /home/drcode/zigtactoe/zig-linux-x86_64-0.6.0+17f36566d/lib/zig/libc/include/generic-glibc/bits/types/struct_tm.h \
+  /home/drcode/zigtactoe/zig-linux-x86_64-0.6.0+17f36566d/lib/zig/libc/include/generic-glibc/bits/types/struct_timespec.h \
+  /home/drcode/zigtactoe/zig-linux-x86_64-0.6.0+17f36566d/lib/zig/libc/include/generic-glibc/bits/endian.h \
+  /home/drcode/zigtactoe/zig-linux-x86_64-0.6.0+17f36566d/lib/zig/libc/include/x86_64-linux-gnu/bits/endianness.h \
+  /home/drcode/zigtactoe/zig-linux-x86_64-0.6.0+17f36566d/lib/zig/libc/include/generic-glibc/bits/types/clockid_t.h \
+  /home/drcode/zigtactoe/zig-linux-x86_64-0.6.0+17f36566d/lib/zig/libc/include/generic-glibc/bits/types/timer_t.h \
+  /home/drcode/zigtactoe/zig-linux-x86_64-0.6.0+17f36566d/lib/zig/libc/include/generic-glibc/bits/types/struct_itimerspec.h \
+  /home/drcode/zigtactoe/zig-linux-x86_64-0.6.0+17f36566d/lib/zig/libc/include/generic-glibc/bits/types/locale_t.h \
+  /home/drcode/zigtactoe/zig-linux-x86_64-0.6.0+17f36566d/lib/zig/libc/include/generic-glibc/bits/types/__locale_t.h

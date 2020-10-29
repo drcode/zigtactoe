@@ -1,0 +1,1 @@
+This implements a minimal perfect tic-tac-toe player in Zig. Simply does a depth-first search to find the ideal move, using minimax strategy.
